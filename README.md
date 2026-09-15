@@ -1,6 +1,6 @@
 🏦 Loan Approval Screening — Logistic Regression
 
-📌 About the Project
+ About the Project
 
 This project predicts loan approval outcomes using Logistic Regression, a machine learning algorithm used for binary classification.
 
