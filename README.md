@@ -69,7 +69,7 @@ The model performance was evaluated using:
 - 📉 Seaborn
 - ☁️ Google Colab
 
-## 📁 Project Files
+## Project Files
 
  text
 📦 Loan-Approval-Screening
