@@ -1,4 +1,4 @@
-🏦 Loan Approval Screening — Logistic Regression
+Loan Approval Screening — Logistic Regression
 
  About the Project
 
@@ -8,14 +8,13 @@ The model classifies loan applications into two classes:
 
 - `0` → Negative / No risk
 - `1` → Positive / Risk
+ This project was completed as part of my LearnDepth Internship.
 
-💼 This project was completed as part of my LearnDepth Internship.
-
-## 🎯 Objective
+##  Objective
 
 The main objective is to build a simple Logistic Regression model and evaluate its performance in predicting loan application outcomes.
 
-## 📊 Dataset
+##  Dataset
 
 The dataset contains 1,000 loan application records with 6 input features and 1 target variable.
 
